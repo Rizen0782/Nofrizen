@@ -1,2 +1,1 @@
-# Nofrizen
-Indonwsia
+READme Nofrizwn
